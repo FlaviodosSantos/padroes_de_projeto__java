@@ -25,7 +25,7 @@
 Os metodos 1 e 3 são iguais, só os metodos 2 e 4 são específicos de cada bebida.
 
 ``` 
-    O padrão **TEMPLATE METHOD** define o esqueleto de um algoritmo dentro de um método, transferindo
+    O padrão TEMPLATE METHOD define o esqueleto de um algoritmo dentro de um método, transferindo
     alguns de seus passos para as subclasses. O Template Method permite que as subclasses redefinam 
     certos passos de um algoritmo sem alterar a estrutura do proprio algoritmo.
 ```
