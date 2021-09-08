@@ -1,6 +1,6 @@
 package bebida.normal;
 
-public class Cafe {
+public class Cha {
     public void prepararBebida(){
         ferverAgua();
         misturarNaAgua();
@@ -13,14 +13,14 @@ public class Cafe {
     }
 
     public void misturarNaAgua() {
-        System.out.println("Colocando café no filtro");
+        System.out.println("Colocando saquinho de chá na água");
     }
 
     public void colocarNaXicara() {
-        System.out.println("Colocando café na xícara");
+        System.out.println("Colocando chá na xícara");
     }
 
     public void adicionarCondimentos() {
-        System.out.println("Adicionando açucar e leite");
+        System.out.println("Adicionando limão");
     }
 }
